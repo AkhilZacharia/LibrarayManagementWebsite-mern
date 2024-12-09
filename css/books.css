@@ -1,0 +1,16 @@
+img{
+    width: 100px;
+}
+#content{
+    margin-top: 50px;
+    
+}
+
+#cardlink{
+    text-decoration: none;
+    color: darkslategray;
+    font-family: cursive;
+}
+#cardlink h5{
+    color: maroon;
+}
