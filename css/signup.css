@@ -1,6 +1,8 @@
 #content{
     margin-top: 15%;
-    background-image: url(/images/bgbook.jpg);
+    /* background-color: rgb(245, 245, 245); */
 }
 
-
+#mainc{
+    background-image: url('/images/bgbook.jpg');
+}
