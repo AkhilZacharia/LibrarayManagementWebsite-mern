@@ -4,6 +4,6 @@
 }
 
 #mcontent{
-    background-image: url(/images/shelf.jpg);
+    background-image: url('/images/shelf.jpg');
     background-size: cover;
 }
